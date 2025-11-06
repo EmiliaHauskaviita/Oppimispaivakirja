@@ -13,3 +13,11 @@ Minulla oli alkuun isoja ongelmia sillä minulla on git ladattu läppärilleni m
 | git clone | kloonaa halutun reposition |
 | cd | siirtyy hakemistoon |
 | git checkout | vaihtaa haaran |
+
+## Harjoitus 2
+git log --stat näyttää minulle lisätietoa siitä miten commit on vaikuttanut tiedostoon.
+
+## Harjoitus 3 
+Komento git log näyttää minulle revert-commitin jossa muutokset palautettiin
+
+Revert komentoon käytin apuna copilot sillä en ymmärtänyt sen toimimista. 

@@ -2,7 +2,7 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Minulla oli alkuun isoja ongelmia sillä minulla on git ladattu läppärilleni mutta se on MacBook ja sain sen kanssa taistella tovin, kunnes luovutin ja latasin git pöytäkoneelleni. Powershell ei ole oma lempparini ja komennot joilla tämä toimii ovat hankalia. Olen tottunut nimittäin Linuxin komentoihin. Ilmiesesti MacBookilla tulee tietosuoja vastaan? Olen nimittäin aikaisemmin käyttänyt git SSH yhteyden kautta.
+Minulla oli alkuun isoja ongelmia, sillä minulla on git ladattu läppärilleni mutta se on MacBook ja sain sen kanssa taistella tovin, kunnes luovutin ja latasin git pöytäkoneelleni. Powershell ei ole oma lempparini ja komennot joilla, tämä toimii ovat hankalia. Olen tottunut nimittäin Linuxin komentoihin. Ilmeisesti MacBookilla tulee tietosuoja vastaan? Olen nimittäin aikaisemmin käyttänyt git SSH yhteyden kautta. 
 
 ## Osiossa käyttämäni Git-komennot
 
@@ -32,14 +32,23 @@ Minulla oli alkuun isoja ongelmia sillä minulla on git ladattu läppärilleni m
 
 
 ## Harjoitus 2
-git log --stat näyttää minulle lisätietoa siitä miten commit on vaikuttanut tiedostoon.
+
+git log komento näyttää minulle commit historian.
+
+git log --stat näyttää minulle lisätietoa siitä, miten commit on vaikuttanut tiedostoon.
 
 ## Harjoitus 3 
-Komento git log näyttää minulle revert-commitin jossa muutokset palautettiin
+
+git status komennon avulla voidaan seurata koko ajan mitä tiedostoille tapahtuu kun ne ovat odottamassa talletusta. 
+
+Untracked tiedostot: Pysyivät hakemistossa mutta voidaan myös poistaa käyttämällä komentoa git clean -f.
 
 Revert komentoon käytin apuna copilot sillä en ymmärtänyt sen toimimista. 
 
+Komento git log näyttää minulle revert-commitin jossa muutokset palautettiin.
+
 ## Harjoitus 4 
+
 Minun piti hetki etsiä ja lueskella ohjeista mitä master haara tarkoittaa. Note to self: Älä hyppää suoraan tehtävän pariin!
 Olen sen verran ruosteessa näistä asioista että jouduin hetken kaivelemaan miten voin avata hello.html tiedosotn verkossa. Mutta lopulta sain kuin sainkin sen avautumaan!!
 

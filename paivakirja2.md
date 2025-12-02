@@ -16,6 +16,10 @@ kohdassa 6. muuttui se että näen GitHubissa luodun tiedoston uusi.md.
     
 Note! Minulla oli vaikeuksia tehtävän kanssa sillä alkuun vaihdoin vain repositoriota enkä saanut molempia repositorioita. Tämän sain kuitenkin ratkaistua ja nyt se toimii niin kuin pitääkin.
 
+2.12.2025 muutoksi: Huoh!! Olipa paljon helpompi tehdä kun seurasi tarkkaan ohjeita ja sekin auttoi huomattavasti että olin kertaalleen tehnyt niin nyt huomasin omia virheitä joita tein aiemmalla kerralla. 
+
+Harjoitus 5 ja 6 tapahtui aika paljon ja git status auttoi paljon. Sitä ei voikkaan käyttää liikaa. Tärkeintä oli rauhoittaa tahtia ja lukea olhjeita rauhallisesti niin vastaukset löytyikin itsestään. 
+
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |

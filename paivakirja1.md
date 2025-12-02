@@ -50,6 +50,8 @@ Komento git log näyttää minulle revert-commitin jossa muutokset palautettiin.
 ## Harjoitus 4 
 
 Minun piti hetki etsiä ja lueskella ohjeista mitä master haara tarkoittaa. Note to self: Älä hyppää suoraan tehtävän pariin!
-Olen sen verran ruosteessa näistä asioista että jouduin hetken kaivelemaan miten voin avata hello.html tiedosotn verkossa. Mutta lopulta sain kuin sainkin sen avautumaan!!
+Olen sen verran ruosteessa näistä asioista että jouduin hetken kaivelemaan miten voin avata hello.html tiedoston verkossa. Mutta lopulta sain kuin sainkin sen avautumaan!!
 
 En oikein ymmärtänyt harjoituksen loppua. Olin luonut style.css master haaraan ja kun loin uuden haaran tyylit yritin siirtää style.css tiedostoa sinne ja kun luulin saaneeni sen tehdyksi mikään ei muuttunut ja kun tein lopussa master ja tyylit merge sain ilmoituksen "already up to date.". 
+
+2.12.2025 muutoksia: Kun oltiin luodussa tyylit haarassa jossa oli myös styles.css tiedosto tyylit näkyivät selaimessa. Kun vaihdettiin main niin tyylit eivät näkyneet ennen kuin tehtiin merge. 
